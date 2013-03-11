@@ -1,6 +1,6 @@
 {
   "api": {
-    "host": "an-api.herokuapp.com"
+    "host": "sensu-nf.herokuapp.com"
   },
   "checks": {},
   "handlers": {
