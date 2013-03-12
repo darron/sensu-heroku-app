@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gem "sensu"
-gem "sensu-plugin", :git => "git://github.com/decklin/sensu-plugin.git"
+gem "sensu-plugin"
